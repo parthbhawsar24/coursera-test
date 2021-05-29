@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: grey;
+}
+
+#header-nav {
+  background-color: lawngreen;
+}
+
+#navbar-brand {
+  padding-top: 20px;
+}
+.navbar-brand a:hover .navbar-brand a:focus {
+  text-decoration: none;
+}
